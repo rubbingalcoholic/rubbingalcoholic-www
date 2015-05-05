@@ -199,21 +199,21 @@ include($app_base . '/config/local.php');
 			document.getElementById('shemale').innerHTML = omg + lol + wtf + pwn;
 		</script>
 		<? if (LIVE) { ?>
-		<!-- Piwik --> 
-		<script type="text/javascript">
-		var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.sharemyshit.com/" : "http://stats.sharemyshit.com/");
-		document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script type="text/javascript">
-		try {
-		var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 2);
-		piwikTracker.trackPageView();
-		piwikTracker.enableLinkTracking();
-		} catch( err ) {}
-		</script><noscript><p><img src="http://stats.sharemyshit.com/piwik.php?idsite=2" style="border:0" alt="" /></p></noscript>
-		<!-- End Piwik Tracking Code -->
-
-
-		
+			<!-- Piwik -->
+			<script type="text/javascript">
+				var _paq = _paq || [];
+				_paq.push(['trackPageView']);
+				_paq.push(['enableLinkTracking']);
+				(function() {
+					var u="//piwik.rubbingalcoholic.com/";
+					_paq.push(['setTrackerUrl', u+'piwik.php']);
+					_paq.push(['setSiteId', 2]);
+					var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+					g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+				})();
+			</script>
+			<noscript><p><img src="//piwik.rubbingalcoholic.com/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+			<!-- End Piwik Code -->
 		<? } ?>
 	</body>
 

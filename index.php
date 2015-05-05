@@ -212,7 +212,7 @@ include($app_base . '/config/local.php');
 					g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
 				})();
 			</script>
-			<noscript><p><img src="//piwik.rubbingalcoholic.com/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+			<noscript><p><img src="//piwik.rubbingalcoholic.com/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
 			<!-- End Piwik Code -->
 		<? } ?>
 	</body>

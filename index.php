@@ -207,7 +207,7 @@ include($app_base . '/config/local.php');
 				(function() {
 					var u="//piwik.rubbingalcoholic.com/";
 					_paq.push(['setTrackerUrl', u+'piwik.php']);
-					_paq.push(['setSiteId', 2]);
+					_paq.push(['setSiteId', 3]);
 					var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
 					g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
 				})();

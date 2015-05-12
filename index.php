@@ -215,6 +215,7 @@ include($app_base . '/config/local.php');
 			<noscript><p><img src="//piwik.rubbingalcoholic.com/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
 			<!-- End Piwik Code -->
 		<? } ?>
+		<script src="https://fightforthefuture.github.io/usafreedom-widget/widget.min.js" async></script>
 	</body>
 
 </html>

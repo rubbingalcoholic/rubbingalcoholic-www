@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/rubbingalcoholic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rubbingalcoholic.com
+  * I am rubbingalcoholic (https://keybase.io/rubbingalcoholic) on keybase.
+  * I have a public key with fingerprint 609A 9FF4 EECF 5789 36E2  50A9 42B0 CB05 1F03 3D72
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "609a9ff4eecf578936e250a942b0cb051f033d72",
+            "host": "keybase.io",
+            "key_id": "42b0cb051f033d72",
+            "kid": "0101a52aee9c7a82954f14c2d9df831e26d0e635ae2374c3ac0900bd0c8d129fd2120a",
+            "uid": "f4f32cf04dce75d7cc8ffd31b9f0da19",
+            "username": "rubbingalcoholic"
+        },
+        "revoke": {
+            "sig_ids": [
+                "7f6b65c0eb1a4816248bd0c51d1363b1302f902360d69612c9538371e9bb2cac0f"
+            ]
+        },
+        "service": {
+            "hostname": "rubbingalcoholic.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1432089529,
+    "expire_in": 157680000,
+    "prev": "ad7ecf445d8f4ef4dd37d1d9b68490f7ebe312b0cecbcb28c2d511134d51264c",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owF1kltsVEUcxnfb7bbdWG80oaGabY+ViBYyM+c6CyQNRDBeAgg0mAWWc2bmbI/b
+7ll2t9t7TFattqW2pNYYQjEGC0FJqH2wUdq6QaRIETRGq40mWBtJEwOGsqw+WJzT
+6JvOy2Rmvu833/z/01+S78pzbxqZLvDnb4y7pxcM1+7g4mdtgmHTFiHQJkTY8mRa
+0TCLx+JWNCkEBAVgHZumxBgxZVXDosKQDHQsIQMQA8jQBKJIVSRUC3V2wnFwjKEn
+2DrL5nt8EbIo3/0PfWT5AEAAdRnpjGGi6hrCsmRCiSCKqamJkCGFAqaIss6QqEpE
+1AnAABgUEI1ChE2KIAI6xzUu40zJFBExgUQJU2WqEqKZJhWhgU1AdYgdYYLFo3oD
+4+p4o2Hw5+r1xK6z6y0idFQLcZayI8ypRMIK8/AJIRAUVFMxFJkAZkBd0qCCJM2J
+IEMKRUU0oAiQiQESFUAVrEBEsCxqogoZNgxEeGZT2MfZ/OaURZbhTrX+J8U6Yjfw
+nLG4nbSJXc8VdclkLBFw0iVbYo6liRmhf2Ah7qXczh0pFk9YdlQIQK4kScuhQ0lE
+QMMywtUCa45ZcRayHIWs2ooG+HAuYinO1KnKmyxJMtV4v02JUlGlkGJD0SQMTJUZ
+TIROGxkxiIE03iMZQihKfEKKRATnfQejNodzaFIPcyYvYVRPNsaZ0OHrch/1uNx5
+Lm9BnvPxXL7i+//9jQfuu8c1umvf2dz3nV54Zer9VZGGshOJGR92VX6zcvziRLaz
+sFX9yi6+2HHC55f7bktWxfxrdw6BmuYXfN3ZnyeX9p4b2DIctnuDL9XEcE9zz9W8
+C625Jx56/cvMXGHtyO7J3ODC8fLw25GRkXRLqvfOhnNrPe6+Xn/5Zvjj7ZVLJ99t
+d3vGLu+aOfPxD1NrXUv5bw31PLP6fPume4sKc93TnsPepudezXpXPbKz6gvlUffd
+pq7gwNCZ2s13S6peuZGuVOZLa//4tf16b3K8oGjN01dHo9+Fu4beXJHecmXsZiBF
+1kw8PjzzQf+T7+x8sHzs4b4NFZ8e/2XyUknZaTLZOn5swr8xXfbRX53BhbODL25T
+S7Yeeqx2a/fBZ38bW8pmI10svX7u9Hu3Mp4dRQHv4ANG6Pr6C1WpiuStzOzLR3Lb
+0f6hmv2zoUun/vzk5E/9YtPU5adWDBx4PrvD/3WxrtwsTd049vniqdV4TyYMZ0cr
+ho9e68jE9r7Rdq1mvvTDufMF283FROXv1d/uif0N
+=Fr29
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rubbingalcoholic
+
+==================================================================
+

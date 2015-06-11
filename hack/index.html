@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Elite hacker interface</title>
+<link rel="stylesheet" type="text/css" href="hack.css"/>
+</head>
+<body>
+    <div id="scene1">
+        <div id="map"></div>
+        <div id="dc" class="invisible"></div>
+        <div id="cube">
+            <div class="wrap">
+                <div class="cube">
+                    <div class="front"></div>
+                    <div class="back"></div>
+                    <div class="top"></div>
+                    <div class="bottom"></div>
+                    <div class="left"></div>
+                    <div class="right"></div>
+                </div>
+            </div>
+        </div>
+        <canvas id="q" class="invisible"></canvas>
+        <div id="foreground">
+            <div class="panel">
+                <h1>hack mode enabled.</h1>
+                <div class="fields" id="target">
+                    <h2>choose target:</h2>
+                    <input type="text" />
+                    <button>select target</button>
+                    <div class="spinner_container" id="spinner" style="display: none;">
+                        <div class="spinner">
+                            <div class="blade d01"><div></div></div>
+                            <div class="blade d02"><div></div></div>
+                            <div class="blade d03"><div></div></div>
+                            <div class="blade d04"><div></div></div>
+                            <div class="blade d05"><div></div></div>
+                            <div class="blade d06"><div></div></div>
+                            <div class="blade d07"><div></div></div>
+                            <div class="blade d08"><div></div></div>
+                            <div class="blade d09"><div></div></div>
+                            <div class="blade d10"><div></div></div>
+                            <div class="blade d11"><div></div></div>
+                            <div class="blade d12"><div></div></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="fields" id="data" style="display: none;">
+                    <h2>select data:</h2>
+                    <input type="text" />
+                    <button>begin hack</button>
+                </div>
+                <div id="hacking">
+                    <div></div>
+                    <strong>HACKING...</strong>
+                </div>
+            </div>
+            <div id="fbi" class="invisible">
+                <img src="fbi.jpg"/>
+                <div id="hqinfo"></div>            
+            </div>
+            <div id="dickheads">
+            </div>
+        </div>
+    </div>
+    <div id="scene2" class="invisible">
+        <strong>access<br/>granted!</strong>
+        <a href="#">[download users.tar.gz]</a>
+    </div>
+    <script type="text/javascript" src="hack.js"></script>
+</body>
+</html>

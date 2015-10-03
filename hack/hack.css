@@ -68,7 +68,7 @@ body {
     width: 1920px;
     height: 1200px;
     overflow: hidden;
-    background: red;
+    background: #00ffaa;
     z-index: 10000;
     display: none;
 

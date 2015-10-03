@@ -79,7 +79,7 @@ var dickheads = [
     ],
     [
         'sureveillance.jpg',
-        'Mass surveillance is the pinnacle of human ingenuity. The NSA will help you find your lost carkeys.'
+        'Mass surveillance is the pinnacle of human ingenuity. The NSA will help you find your lost car keys.'
     ],
     [
         'obama.jpg',
@@ -91,7 +91,7 @@ var dickheads = [
     ],
     [
         'tedcruz.jpg',
-        'Ted Cruz\nSenator from Texas\n\nStatus: Canadian\n\nIf Obama announced he wanted to cure cancer for all children, Ted Cruz would announce a Republican effort to give all children cancer. And AIDS.'
+        'Ted Cruz\nSenator from Texas\n\nStatus: Canadian\n\nIf Obama announced he wanted to cure cancer for all children, Ted Cruz would probably announce a Republican effort to give all children cancer. And AIDS.'
     ]
 ];
 for (var i = 0; i < dickheads.length; i++) {
@@ -168,7 +168,7 @@ document.querySelector('#target button').addEventListener('click', function(e) {
                         animateFBI();
                     }, 500);
                 }, 00);
-            }, 250);
+            }, 200);
         }, 1000);
     }, 400);
 }, false);
